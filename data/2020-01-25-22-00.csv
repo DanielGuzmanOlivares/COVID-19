@@ -1,0 +1,45 @@
+,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected
+0,Hubei,China,1/25/2020 22:00,1052,52.0,42.0,
+1,Zhejiang,China,1/25/2020 22:00,104,,1.0,
+2,Guangdong,China,1/25/2020 22:00,98,,2.0,
+3,Henan,China,1/25/2020 22:00,83,1.0,,3.0
+4,Chongqing,China,1/25/2020 22:00,75,,,
+5,Hunan,China,1/25/2020 22:00,69,,,
+6,Anhui,China,1/25/2020 22:00,60,,,4.0
+7,Beijing,China,1/25/2020 22:00,51,,2.0,
+8,Sichuan,China,1/25/2020 22:00,44,,,4.0
+9,Shanghai,China,1/25/2020 22:00,40,1.0,1.0,72.0
+10,Shandong,China,1/25/2020 22:00,39,,,
+11,Jiangxi,China,1/25/2020 22:00,36,,,
+12,Guangxi,China,1/25/2020 22:00,33,,,
+13,Jiangsu,China,1/25/2020 22:00,31,,1.0,
+14,Hainan,China,1/25/2020 22:00,19,,,
+15,Liaoning,China,1/25/2020 22:00,19,,,
+16,Fujian,China,1/25/2020 22:00,18,1.0,,20.0
+17,Heilongjiang,China,1/25/2020 22:00,15,,,
+18,Shaanxi,China,1/25/2020 22:00,15,,,
+19,Tianjin,China,1/25/2020 22:00,13,,,
+20,Hebei,China,1/25/2020 22:00,13,1.0,,
+21,Yunnan,China,1/25/2020 22:00,11,,,58.0
+22,Shanxi,China,1/25/2020 22:00,9,,,
+23,Inner Mongolia,China,1/25/2020 22:00,7,,,
+24,Gansu,China,1/25/2020 22:00,7,,,
+25,Guizhou,China,1/25/2020 22:00,5,,,
+26,Hong Kong,Hong Kong,1/25/2020 22:00,5,,,244.0
+27,Ningxia,China,1/25/2020 22:00,4,,,1.0
+28,Jilin,China,1/25/2020 22:00,4,,,
+29,Xinjiang,China,1/25/2020 22:00,4,,,
+30,Taiwan,Taiwan,1/25/2020 22:00,3,,,
+31,Macau,Macao,1/25/2020 22:00,2,,,
+32,Qinghai,China,1/25/2020 22:00,1,,,
+33,WA,USA,1/25/2020 22:00,1,,,
+34,Illinois,USA,1/25/2020 22:00,1,,,
+35,,Japan,1/25/2020 22:00,2,,,
+36,,Thailand,1/25/2020 22:00,7,,,
+37,,S. Korea,1/25/2020 22:00,3,,,
+38,,Singapore,1/25/2020 22:00,3,,,
+39,,Vietnam,1/25/2020 22:00,2,,,
+40,,France,1/25/2020 22:00,3,,,
+41,,Australia,1/25/2020 22:00,4,,,
+42,,Nepal,1/25/2020 22:00,1,,,
+43,,Malaysia,1/25/2020 22:00,3,,,

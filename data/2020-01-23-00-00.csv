@@ -1,0 +1,47 @@
+,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected
+0,Anhui,China,1/23/2020 00:00,9.0,,,4.0
+1,Beijing,China,1/23/2020 00:00,22.0,,,
+2,Chongqing,China,1/23/2020 00:00,9.0,,,
+3,Fujian,China,1/23/2020 00:00,5.0,,,2.0
+4,Gansu,China,1/23/2020 00:00,2.0,,,
+5,Guangdong,China,1/23/2020 00:00,32.0,,2.0,1.0
+6,Guangxi,China,1/23/2020 00:00,5.0,,,
+7,Guizhou,China,1/23/2020 00:00,3.0,,,
+8,Hainan,China,1/23/2020 00:00,5.0,,,32.0
+9,Hebei,China,1/23/2020 00:00,1.0,1.0,,
+10,Heilongjiang,China,1/23/2020 00:00,2.0,,,
+11,Henan,China,1/23/2020 00:00,5.0,,,
+12,Hong Kong,Hong Kong,1/23/2020 00:00,2.0,,,65.0
+13,Hubei,China,1/23/2020 00:00,444.0,17.0,28.0,
+14,Hunan,China,1/23/2020 00:00,9.0,,,
+15,Inner Mongolia,China,1/23/2020 00:00,,,,1.0
+16,Jiangsu,China,1/23/2020 00:00,5.0,,,
+17,Jiangxi,China,1/23/2020 00:00,7.0,,,
+18,Jilin,China,1/23/2020 00:00,1.0,,,
+19,Liaoning,China,1/23/2020 00:00,3.0,,,
+20,Macau,Macao,1/23/2020 00:00,2.0,,,
+21,Ningxia,China,1/23/2020 00:00,1.0,,,
+22,Qinghai,China,1/23/2020 00:00,,,,
+23,Shaanxi,China,1/23/2020 00:00,3.0,,,1.0
+24,Shandong,China,1/23/2020 00:00,6.0,,,2.0
+25,Shanghai,China,1/23/2020 00:00,16.0,,,22.0
+26,Shanxi,China,1/23/2020 00:00,1.0,,,
+27,Sichuan,China,1/23/2020 00:00,8.0,,,2.0
+28,Taiwan,Taiwan,1/23/2020 00:00,1.0,,,
+29,Tianjin,China,1/23/2020 00:00,4.0,,,
+30,Tibet,China,1/23/2020 00:00,,,,
+31,WA,USA,1/23/2020 00:00,1.0,,,
+32,Xinjiang,China,1/23/2020 00:00,2.0,,,
+33,Yunnan,China,1/23/2020 00:00,2.0,,,
+34,Zhejiang,China,1/23/2020 00:00,27.0,,,
+35,,Japan,1/23/2020 00:00,1.0,,,
+36,,Thailand,1/23/2020 00:00,3.0,,,
+37,,S. Korea,1/23/2020 00:00,1.0,,,
+38,,Singapore,1/23/2020 00:00,1.0,,,
+39,,Philippines,1/23/2020 00:00,4.0,,,
+40,,Malaysia,1/23/2020 00:00,4.0,,,
+41,,Vietnam,1/23/2020 00:00,2.0,,,
+42,,Australia,1/23/2020 00:00,1.0,,,
+43,,Mexico,1/23/2020 00:00,1.0,,,
+44,,Brazil,1/23/2020 00:00,1.0,,,
+45,,Colombia,1/23/2020 00:00,1.0,,,

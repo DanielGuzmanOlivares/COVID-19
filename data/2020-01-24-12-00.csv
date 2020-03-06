@@ -1,0 +1,42 @@
+,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected
+0,Hubei,China,1/24/2020 12:00,549.0,24.0,31.0,
+1,Guangdong,China,1/24/2020 12:00,53.0,,2.0,
+2,Zhejiang,China,1/24/2020 12:00,43.0,,1.0,
+3,Beijing,China,1/24/2020 12:00,36.0,,1.0,
+4,Chongqing,China,1/24/2020 12:00,27.0,,,13.0
+5,Hunan,China,1/24/2020 12:00,24.0,,,
+6,Guangxi,China,1/24/2020 12:00,23.0,,,
+7,Shanghai,China,1/24/2020 12:00,20.0,,1.0,22.0
+8,Jiangxi,China,1/24/2020 12:00,18.0,,,
+9,Sichuan,China,1/24/2020 12:00,15.0,,,4.0
+10,Shandong,China,1/24/2020 12:00,15.0,,,
+11,Anhui,China,1/24/2020 12:00,15.0,,,4.0
+12,Fujian,China,1/24/2020 12:00,10.0,,,2.0
+13,Henan,China,1/24/2020 12:00,9.0,,,42.0
+14,Jiangsu,China,1/24/2020 12:00,9.0,,,
+15,Hainan,China,1/24/2020 12:00,8.0,,,32.0
+16,Tianjin,China,1/24/2020 12:00,8.0,,,
+17,Yunnan,China,1/24/2020 12:00,5.0,,,
+18,Shaanxi,China,1/24/2020 12:00,5.0,,,
+19,Heilongjiang,China,1/24/2020 12:00,4.0,1.0,,
+20,Liaoning,China,1/24/2020 12:00,4.0,,,
+21,Guizhou,China,1/24/2020 12:00,3.0,,,
+22,Jilin,China,1/24/2020 12:00,3.0,,,
+23,Taiwan,Taiwan,1/24/2020 12:00,3.0,,,
+24,Ningxia,China,1/24/2020 12:00,2.0,,,1.0
+25,Hong Kong,Hong Kong,1/24/2020 12:00,2.0,,,36.0
+26,Macau,Macao,1/24/2020 12:00,2.0,,,
+27,Hebei,China,1/24/2020 12:00,2.0,1.0,,
+28,Gansu,China,1/24/2020 12:00,2.0,,,
+29,Xinjiang,China,1/24/2020 12:00,2.0,,,
+30,Shanxi,China,1/24/2020 12:00,1.0,,,
+31,Inner Mongolia,China,1/24/2020 12:00,1.0,,,2.0
+32,Qinghai,China,1/24/2020 12:00,,,,1.0
+33,WA,USA,1/24/2020 12:00,1.0,,,
+34,Illinois,USA,1/24/2020 12:00,1.0,,,
+35,,Japan,1/24/2020 12:00,2.0,,,
+36,,Thailand,1/24/2020 12:00,5.0,,,
+37,,S. Korea,1/24/2020 12:00,2.0,,,
+38,,Singapore,1/24/2020 12:00,3.0,,,
+39,,Vietnam,1/24/2020 12:00,2.0,,,
+40,,France,1/24/2020 12:00,2.0,,,
