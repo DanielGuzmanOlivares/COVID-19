@@ -1,0 +1,173 @@
+,Country/Region,Confirmed,Deaths,Recovered
+0,China,80894,3237.0,8043
+1,Italy,35713,2978.0,28710
+2,Iran,17361,1135.0,10516
+3,Spain,13910,623.0,12206
+4,Germany,11973,28.0,11859
+5,France,9134,264.0,8268
+6,S. Korea,8413,84.0,6789
+7,USA,8019,124.0,7789
+8,Switzerland,3076,33.0,3028
+9,UK,2626,104.0,2457
+10,Netherlands,2051,58.0,1991
+11,Austria,1646,4.0,1633
+12,Norway,1565,6.0,1558
+13,Belgium,1486,14.0,1441
+14,Sweden,1292,10.0,1267
+15,Denmark,1057,4.0,1052
+16,Japan,899,29.0,726
+17,Malaysia,790,2.0,728
+18,Diamond Princess,712,7.0,249
+19,Canada,648,9.0,627
+20,Portugal,642,2.0,636
+21,Australia,565,6.0,516
+22,Czechia,522,0.0,519
+23,Qatar,452,0.0,448
+24,Israel,433,0.0,422
+25,Greece,418,5.0,399
+26,Brazil,372,3.0,367
+27,Finland,359,0.0,349
+28,Singapore,313,0.0,199
+29,Pakistan,296,1.0,293
+30,Ireland,292,2.0,285
+31,Poland,287,5.0,281
+32,Slovenia,286,1.0,285
+33,Romania,260,0.0,241
+34,Estonia,258,0.0,257
+35,Bahrain,255,1.0,159
+36,Iceland,250,0.0,245
+37,Saudi Arabia,238,0.0,232
+38,Chile,238,0.0,238
+39,Indonesia,227,19.0,197
+40,Thailand,212,1.0,170
+41,Luxembourg,203,2.0,201
+42,Philippines,202,17.0,181
+43,Egypt,196,6.0,164
+44,Hong Kong,181,4.0,85
+45,India,168,3.0,151
+46,Iraq,164,12.0,111
+47,Ecuador,155,2.0,153
+48,Russia,147,0.0,139
+49,Peru,145,0.0,144
+50,Kuwait,142,0.0,127
+51,Lebanon,133,4.0,125
+52,San Marino,119,11.0,104
+53,South Africa,116,0.0,116
+54,UAE,113,0.0,87
+55,Slovakia,105,0.0,105
+56,Armenia,102,0.0,101
+57,Taiwan,100,1.0,79
+58,Turkey,98,1.0,97
+59,Mexico,93,0.0,89
+60,Colombia,93,0.0,92
+61,Bulgaria,92,2.0,90
+62,Serbia,89,0.0,88
+63,Croatia,87,0.0,82
+64,Panama,86,1.0,85
+65,Argentina,79,2.0,74
+66,Vietnam,75,0.0,59
+67,Algeria,73,7.0,56
+68,Latvia,71,0.0,70
+69,Brunei,68,0.0,68
+70,Albania,59,2.0,57
+71,Hungary,58,1.0,55
+72,Faeroe Islands,58,0.0,57
+73,Jordan,52,0.0,51
+74,Belarus,51,0.0,46
+75,Sri Lanka,51,0.0,48
+76,Costa Rica,50,0.0,50
+77,Uruguay,50,0.0,50
+78,Morocco,49,2.0,46
+79,Cyprus,49,0.0,49
+80,Malta,48,0.0,46
+81,Palestine,44,0.0,44
+82,Andorra,39,0.0,38
+83,Bosnia and Herzegovina,39,0.0,37
+84,Georgia,38,0.0,37
+85,Cambodia,37,0.0,36
+86,Moldova,36,1.0,34
+87,Senegal,36,0.0,34
+88,Kazakhstan,36,0.0,36
+89,Venezuela,36,0.0,36
+90,North Macedonia,35,0.0,34
+91,Azerbaijan,34,1.0,27
+92,Lithuania,33,0.0,32
+93,Oman,33,0.0,21
+94,Tunisia,29,0.0,28
+95,Guadeloupe,27,0.0,27
+96,Afghanistan,22,0.0,21
+97,Dominican Republic,21,1.0,20
+98,Burkina Faso,20,1.0,19
+99,New Zealand,20,0.0,20
+100,Martinique,19,1.0,18
+101,Liechtenstein,19,0.0,19
+102,Macao,17,0.0,7
+103,Uzbekistan,15,0.0,15
+104,Ukraine,14,2.0,12
+105,Bangladesh,14,1.0,10
+106,Jamaica,13,0.0,11
+107,Maldives,13,0.0,13
+108,Bolivia,12,0.0,12
+109,Réunion,12,0.0,12
+110,French Guiana,11,0.0,11
+111,Paraguay,11,0.0,11
+112,Cameroon,10,0.0,10
+113,Cuba,10,0.0,10
+114,Monaco,9,0.0,9
+115,Honduras,9,0.0,9
+116,Guatemala,8,1.0,7
+117,Nigeria,8,0.0,7
+118,Gibraltar,8,0.0,6
+119,Guam,8,0.0,8
+120,Rwanda,8,0.0,8
+121,DRC,7,0.0,7
+122,Ghana,7,0.0,7
+123,Kenya,7,0.0,7
+124,Trinidad and Tobago,7,0.0,7
+125,Channel Islands,6,0.0,6
+126,Ivory Coast,6,0.0,5
+127,Ethiopia,6,0.0,6
+128,Mongolia,6,0.0,6
+129,Seychelles,6,0.0,6
+130,Puerto Rico,5,0.0,5
+131,Guyana,4,1.0,3
+132,Aruba,4,0.0,4
+133,Equatorial Guinea,4,0.0,4
+134,Curaçao,3,0.0,3
+135,French Polynesia,3,0.0,3
+136,Gabon,3,0.0,3
+137,Kyrgyzstan,3,0.0,3
+138,Mauritius,3,0.0,3
+139,Mayotte,3,0.0,3
+140,St. Barth,3,0.0,3
+141,Saint Martin,3,0.0,3
+142,Tanzania,3,0.0,3
+143,Sudan,2,1.0,1
+144,Barbados,2,0.0,2
+145,Benin,2,0.0,2
+146,Greenland,2,0.0,2
+147,Liberia,2,0.0,2
+148,Mauritania,2,0.0,2
+149,Montenegro,2,0.0,2
+150,Namibia,2,0.0,2
+151,New Caledonia,2,0.0,2
+152,Saint Lucia,2,0.0,2
+153,U.S. Virgin Islands,2,0.0,2
+154,Zambia,2,0.0,2
+155,Cayman Islands,1,1.0,0
+156,Nepal,1,0.0,0
+157,Antigua and Barbuda,1,0.0,1
+158,Bahamas,1,0.0,1
+159,Bhutan,1,0.0,1
+160,CAR,1,0.0,1
+161,Congo,1,0.0,1
+162,Djibouti,1,0.0,1
+163,Gambia,1,0.0,1
+164,Guinea,1,0.0,1
+165,Vatican City,1,0.0,1
+166,Montserrat,1,0.0,1
+167,St. Vincent Grenadines,1,0.0,1
+168,Somalia,1,0.0,1
+169,Suriname,1,0.0,1
+170,Eswatini,1,0.0,1
+171,Togo,1,0.0,1
