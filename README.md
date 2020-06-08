@@ -93,6 +93,8 @@ Risk is represented by a real number in [-inf,0], the lesser the risk the smalle
 
 ![Risk map](https://github.com/DanielGuzmanOlivares/COVID-19/blob/master/imgs/Risk_map.png?raw=true)
 
+__Note__: Countries that do not provide an official number of active cases will not have an associated risk and will appear colored in white.
+
 ## Coming soon!
 
 * Economy metrics -> how will the COVID-19 affect your country's economy?
